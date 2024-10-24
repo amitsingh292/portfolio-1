@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="week7.css">
+</head>
+<body>
+       <div class="div0">
+        <div class="div1">
+            <img src="mine.jpg" height="100"  >
+        
+    </div>
+    <div class="div2">
+        <h1>Amit Singh Sikarwar</h1>
+        <p><span>Web Developer</span> at <span>tech Solution Ltd</span></p>
+    </div>
+    <div class="div3">
+        <p id="p1">
+            My name is Amit Singh Sikarwar. I am study at LPU in  btech cse . I am a web developer . 
+            I am form Madhya pradesh in Gwalior. I am learning a very HTML, CSS, c++, java.. language.
+
+        </p>
+
+    </div>
+    <div class="div4">
+        <p>
+            <strong>Email:</strong><a id="a1" href="#">sikarwaramit926@gmail.com</a>
+        </p>
+        <p><strong>Phone:</strong>8103059983</p>
+    </div>
+    <div class="div5">
+        <a href="#" class="twiterr">Twitter</a>&nbsp;
+        <a href="#" class="linkedin">LinkedIN</a>
+
+    </div>
+        </div>
+</body>
+</html>
